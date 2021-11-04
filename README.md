@@ -60,7 +60,7 @@ Head back the "Databases" page on the left navigation tab and click "Connect".
 Select the second option, "Connect your application":
 ![image](https://user-images.githubusercontent.com/89766111/140299447-4fdf4b0a-5e72-4bd3-ad02-a2ebdc9beb52.png)
 
-Copy the connecttion string and paste it in a new `.env` file within your repository:
+Copy the connection string and paste it in a new `.env` file within your repository:
 ```
 # .env file
 
