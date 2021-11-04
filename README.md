@@ -1,5 +1,8 @@
 # Task Manager
 
+A mini project I did following a guide to better understand back end development. \
+I used Node, Express and MongoDB Atlas.
+
 ## How to use
 
 Clone repository
