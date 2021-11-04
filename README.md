@@ -41,7 +41,7 @@ Select the "Shared" cloud database option & click "Create":
 
 Choose a cloud provider & region *(in this case I chose AWS & Singapore)*
 
-Wait for your cluster to be created, then select the "Data Access" on the left navigation tab.
+Wait for your cluster to be created, then select the "Database Access" on the left navigation tab.
 
 Click "Add New Database User", with the following selected:
 ![image](https://user-images.githubusercontent.com/89766111/140297977-58f69be0-bff0-471b-b3aa-5b4748f84d52.png)
