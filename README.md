@@ -2,20 +2,17 @@
 
 ## How to use
 
-1. Clone repository
+Clone repository
 ```bash    
 git clone https://github.com/timothyckl/Task-Manager.git
 ```
-2. Install dependencies
+Install dependencies
 ```bash
 npm i
 ```
-3. Run app.js
+Run app.js
 ```bash
 npm start
-```
-or
-
-```bash
+# or
 node ./app.js
 ```
